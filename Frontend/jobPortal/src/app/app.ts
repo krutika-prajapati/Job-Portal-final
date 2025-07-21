@@ -1,9 +1,8 @@
 import { Component, signal } from '@angular/core';
-import { ButtonModule } from 'primeng/button';
 
 @Component({
   selector: 'app-root',
-  imports: [ButtonModule],
+  imports: [],
   templateUrl: './app.html',
   styleUrl: './app.scss',
 })
