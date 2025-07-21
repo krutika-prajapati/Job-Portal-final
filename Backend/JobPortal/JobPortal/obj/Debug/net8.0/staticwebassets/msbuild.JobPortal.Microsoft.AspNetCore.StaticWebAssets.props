@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>JobPortal</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/JobPortal</BasePath>
+      <RelativePath>uploads/resumes/06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5xja1ywru8</Fingerprint>
+      <Integrity>p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>JobPortal</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/JobPortal</BasePath>
+      <RelativePath>uploads/resumes/37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5xja1ywru8</Fingerprint>
+      <Integrity>p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2'))">
+      <SourceType>Package</SourceType>
+      <SourceId>JobPortal</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/JobPortal</BasePath>
+      <RelativePath>uploads/resumes/54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5xja1ywru8</Fingerprint>
+      <Integrity>p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>JobPortal</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/JobPortal</BasePath>
+      <RelativePath>uploads/resumes/efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5xja1ywru8</Fingerprint>
+      <Integrity>p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

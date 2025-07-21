@@ -1,0 +1,17 @@
+D:\.Net\JobPortal\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\.Net\JobPortal\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+D:\.Net\JobPortal\Repository\bin\Debug\net8.0\Repository.dll
+D:\.Net\JobPortal\Repository\bin\Debug\net8.0\Repository.pdb
+D:\.Net\JobPortal\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\.Net\JobPortal\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\JobPortal\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\.Net\JobPortal\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\.Net\JobPortal\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\.Net\JobPortal\Repository\obj\Debug\net8.0\Repository.dll
+D:\.Net\JobPortal\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\.Net\JobPortal\Repository\obj\Debug\net8.0\Repository.pdb
+D:\.Net\JobPortal\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+D:\.Net\JobPortal\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\.Net\JobPortal\Repository\bin\Debug\net8.0\Shared.dll
+D:\.Net\JobPortal\Repository\bin\Debug\net8.0\Shared.pdb
+D:\.Net\JobPortal\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date

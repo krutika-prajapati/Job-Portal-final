@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "j4ETPT5/hNEkfRnitfhgJta8X7SJiwTKwpCox9tizXk=",
+  "Source": "JobPortal",
+  "BasePath": "_content/JobPortal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JobPortal\\wwwroot",
+      "Source": "JobPortal",
+      "ContentRoot": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\",
+      "BasePath": "_content/JobPortal",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4",
+      "SourceId": "JobPortal",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\",
+      "BasePath": "_content/JobPortal",
+      "RelativePath": "uploads/resumes/06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume#[.{fingerprint}]?.pdf_4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5xja1ywru8",
+      "Integrity": "p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\resumes\\06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4"
+    },
+    {
+      "Identity": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4",
+      "SourceId": "JobPortal",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\",
+      "BasePath": "_content/JobPortal",
+      "RelativePath": "uploads/resumes/37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume#[.{fingerprint}]?.pdf_4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5xja1ywru8",
+      "Integrity": "p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\resumes\\37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4"
+    },
+    {
+      "Identity": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2",
+      "SourceId": "JobPortal",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\",
+      "BasePath": "_content/JobPortal",
+      "RelativePath": "uploads/resumes/54331cc3-a4cb-40b6-9860-365582013e30_demo-resume#[.{fingerprint}]?.pdf_2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5xja1ywru8",
+      "Integrity": "p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\resumes\\54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2"
+    },
+    {
+      "Identity": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4",
+      "SourceId": "JobPortal",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\",
+      "BasePath": "_content/JobPortal",
+      "RelativePath": "uploads/resumes/efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume#[.{fingerprint}]?.pdf_4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5xja1ywru8",
+      "Integrity": "p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\resumes\\efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/resumes/06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.5xja1ywru8.pdf_4",
+      "AssetFile": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 08:57:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5xja1ywru8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/resumes/06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/resumes/06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4",
+      "AssetFile": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 08:57:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/resumes/37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.5xja1ywru8.pdf_4",
+      "AssetFile": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 10:21:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5xja1ywru8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/resumes/37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/resumes/37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4",
+      "AssetFile": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 10:21:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/resumes/54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.5xja1ywru8.pdf_2",
+      "AssetFile": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 10:21:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5xja1ywru8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/resumes/54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/resumes/54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2",
+      "AssetFile": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 10:21:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/resumes/efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.5xja1ywru8.pdf_4",
+      "AssetFile": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 08:46:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5xja1ywru8"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/resumes/efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/resumes/efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4",
+      "AssetFile": "D:\\.Net\\JobPortal\\JobPortal\\wwwroot\\uploads\\resumes\\efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 08:46:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1OEyLAzi/LJt4+RtVEvs9hEK1epiOCIMpj2VV8sHNg="
+        }
+      ]
+    }
+  ]
+}

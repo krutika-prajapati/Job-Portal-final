@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/JobPortal/uploads/resumes/06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.5xja1ywru8.pdf_4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5xja1ywru8"},{"Name":"integrity","Value":"sha256-p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg="},{"Name":"label","Value":"_content/JobPortal/uploads/resumes/06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"936485"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 08:57:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/JobPortal/uploads/resumes/06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\06e85e20-cab9-49e1-9ba8-2af4754debce_demo-resume.pdf_4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"936485"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 08:57:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/JobPortal/uploads/resumes/37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.5xja1ywru8.pdf_4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5xja1ywru8"},{"Name":"integrity","Value":"sha256-p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg="},{"Name":"label","Value":"_content/JobPortal/uploads/resumes/37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"936485"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Jul 2025 10:21:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/JobPortal/uploads/resumes/37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\37cce8a3-c971-43e0-adda-0ddc85b30b58_demo-resume.pdf_4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"936485"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Jul 2025 10:21:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/JobPortal/uploads/resumes/54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.5xja1ywru8.pdf_2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5xja1ywru8"},{"Name":"integrity","Value":"sha256-p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg="},{"Name":"label","Value":"_content/JobPortal/uploads/resumes/54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"936485"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Jul 2025 10:21:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/JobPortal/uploads/resumes/54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\54331cc3-a4cb-40b6-9860-365582013e30_demo-resume.pdf_2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"936485"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Jul 2025 10:21:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/JobPortal/uploads/resumes/efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.5xja1ywru8.pdf_4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5xja1ywru8"},{"Name":"integrity","Value":"sha256-p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg="},{"Name":"label","Value":"_content/JobPortal/uploads/resumes/efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"936485"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 08:46:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/JobPortal/uploads/resumes/efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\resumes\efdb5885-8236-4f02-afe6-322c842f0cdd_demo-resume.pdf_4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"936485"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022p1OEyLAzi/LJt4\u002BRtVEvs9hEK1epiOCIMpj2VV8sHNg=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 08:46:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+D:\.Net\JobPortal\Service\bin\Debug\net8.0\Service.deps.json
+D:\.Net\JobPortal\Service\bin\Debug\net8.0\Service.dll
+D:\.Net\JobPortal\Service\bin\Debug\net8.0\Service.pdb
+D:\.Net\JobPortal\Service\bin\Debug\net8.0\Repository.dll
+D:\.Net\JobPortal\Service\bin\Debug\net8.0\Repository.pdb
+D:\.Net\JobPortal\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\.Net\JobPortal\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\JobPortal\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\.Net\JobPortal\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\.Net\JobPortal\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\.Net\JobPortal\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\.Net\JobPortal\Service\obj\Debug\net8.0\Service.dll
+D:\.Net\JobPortal\Service\obj\Debug\net8.0\refint\Service.dll
+D:\.Net\JobPortal\Service\obj\Debug\net8.0\Service.pdb
+D:\.Net\JobPortal\Service\obj\Debug\net8.0\ref\Service.dll
+D:\.Net\JobPortal\Service\bin\Debug\net8.0\Shared.dll
+D:\.Net\JobPortal\Service\bin\Debug\net8.0\Shared.pdb

@@ -1,0 +1,11 @@
+D:\.Net\JobPortal\Shared\bin\Debug\net8.0\Shared.deps.json
+D:\.Net\JobPortal\Shared\bin\Debug\net8.0\Shared.dll
+D:\.Net\JobPortal\Shared\bin\Debug\net8.0\Shared.pdb
+D:\.Net\JobPortal\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\JobPortal\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+D:\.Net\JobPortal\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+D:\.Net\JobPortal\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+D:\.Net\JobPortal\Shared\obj\Debug\net8.0\Shared.dll
+D:\.Net\JobPortal\Shared\obj\Debug\net8.0\refint\Shared.dll
+D:\.Net\JobPortal\Shared\obj\Debug\net8.0\Shared.pdb
+D:\.Net\JobPortal\Shared\obj\Debug\net8.0\ref\Shared.dll
